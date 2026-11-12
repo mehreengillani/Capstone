@@ -1,0 +1,12 @@
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+anthropic
+openai
+perplexityai
+playwright
+trafilatura
+choix
+python-dotenv
